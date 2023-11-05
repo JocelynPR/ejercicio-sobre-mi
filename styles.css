@@ -1,0 +1,35 @@
+/*este es un comentario en css*/
+
+
+
+
+/*selector universal(selecciona todos los elementos)*/
+
+*{
+    background-color: #FF98B2;
+    font-family: sans-serif;
+}
+
+
+/*selector de tipo(selecciona todos los elementos con ese nombre)*/
+
+h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #e3728f;
+    text-align: center;
+}
+
+ h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+/*body {
+    background-color: cornflowerblue;
+}
+
+
+p{
+    color: rgb(83, 60, 25);
+}*/
